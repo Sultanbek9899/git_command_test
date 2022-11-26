@@ -1,1 +1,2 @@
 print("HELLO FROM SULTAN")
+print("HELLO FROM NAZAR")
