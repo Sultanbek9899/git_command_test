@@ -1,6 +1,6 @@
 print("HELLO FROM SULTAN")
 print("HELLO FROM NAZAR")
 print("HELLO FROM ALIYA")
-print('asdasd')
-print("Pulsar")
+print("i'm aeemkii, i'm okay")
+print('asdasd')print("Pulsar")
 print("hello")
